@@ -6,7 +6,8 @@ Right now, I have 5 targets:
 - Finish my own SOC home lab to furthur my experience
 - Finish studying TryHackMe Sec level 1 (no exam)
 - https://github.com/toanvkht/soc-homelab1
-- Finish my intern ans move to SOC tier 1
+- Finish my intern and move to SOC tier 1
+
 If you want to contact me, you can try sending an email to toanvkht@gmail.com or https://www.linkedin.com/in/kh%C3%A1nh-to%C3%A0n-v%C6%B0%C6%A1ng-b1ba3634b/
 <!--
 **toanvkht/toanvkht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
